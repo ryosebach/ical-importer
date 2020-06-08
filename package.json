@@ -1,8 +1,7 @@
 {
   "name": "ical-importer",
   "version": "1.0.0",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ryosebach/ical-importer.git"
@@ -12,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/ryosebach/ical-importer/issues"
   },
-  "homepage": "https://github.com/ryosebach/ical-importer#readme"
+  "homepage": "https://github.com/ryosebach/ical-importer#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.14"
+  }
 }
