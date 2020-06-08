@@ -1,0 +1,16 @@
+{
+  "name": "ical-importer",
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryosebach/ical-importer.git"
+  },
+  "author": "ryosebach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryosebach/ical-importer/issues"
+  },
+  "homepage": "https://github.com/ryosebach/ical-importer#readme"
+}
